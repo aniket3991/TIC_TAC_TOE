@@ -135,7 +135,7 @@ public class Game {
             flag = 2;
 
         if (flag == 1 || flag == 2 ) {
-            System.out.println("\n\nCongratulations " + player + "You won the game !!!\n");
+            System.out.println("\n\nCongratulations " + player + " You won the game !!!\n");
             restart();
         }
         else
